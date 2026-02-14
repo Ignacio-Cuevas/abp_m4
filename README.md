@@ -1,5 +1,7 @@
 # ABP - Módulo 4: Calculadora con Manejo de Errores
 
+🔗 **[Ver proyecto desplegado en GitHub Pages](https://ignacio-cuevas.github.io/abp_m4/)**
+
 ## Descripción General
 
 Proyecto de aprendizaje basado en problemas (ABP) del **Módulo 4**, centrado en el uso de **clases**, **métodos estáticos**, **módulos ES6** y **manejo de excepciones** (`try-catch`) en JavaScript. La aplicación implementa una clase `Calculadora` reutilizable que se utiliza para realizar operaciones aritméticas sobre notas académicas y sueldos de empleados.
@@ -141,4 +143,3 @@ Promedio sueldos:  $660.000
 Sueldo mayor:  $1.000.000
 Sueldo menor:  $350.000
 ```
-# abp_m4
